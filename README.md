@@ -1,2 +1,2 @@
-# gomarsx
+# gomars
 go mars with spaceX
